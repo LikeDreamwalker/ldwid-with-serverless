@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["Image"],{feec:function(a,e,t){"use strict";t.r(e);var n=function(){var a=this,e=a.$createElement,t=a._self._c||e;return t("div",[t("v-card",{attrs:{height:"100vh"}},[a._v(" "+a._s(a.$route.params.name)+" asdjlkasdjklsadjl ")])],1)},s=[],r={},c=r,d=t("2877"),l=t("6544"),u=t.n(l),i=t("b0af"),o=Object(d["a"])(c,n,s,!1,null,"dbb48af4",null);e["default"]=o.exports;u()(o,{VCard:i["a"]})}}]);
+//# sourceMappingURL=Image.c4c45597.js.map
